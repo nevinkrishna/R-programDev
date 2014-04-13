@@ -1,3 +1,4 @@
+#version2
 setwd("~/R/Coursera")
 # read data from directory
 x<-read.csv("specdata/001.csv") 
